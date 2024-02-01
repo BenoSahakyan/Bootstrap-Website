@@ -1,0 +1,91 @@
+header{
+    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(255, 255, 255, .4)), url(../img/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 71vh;
+}
+.cont1 .logo{
+    font-size: 190% !important;
+    color: white !important;
+}
+.navbar-brand span{
+    font-size: 32px;
+    color: #001aff;
+}
+
+.navbar {
+    background-color: #fff;
+}
+
+.navbar .container ul{
+    color: #000;
+}
+
+.bi-play-circle::before {
+    content: "\f4f3";
+}
+
+header .heddiv {
+    padding-top: 7%;
+}
+
+.sec1 .icon-box{
+    text-align: center;
+    border: 1px solid #ebebeb;
+    padding: 80px 20px;
+    transition: all ease-in-out 0.3s;
+    background: #fff;
+}
+
+.sec1 .icon-box i{
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 64px;
+    height: 64px;
+    background: #000000;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+    color: #ffffff;
+    font-size: 28px;
+    transition: ease-in-out 0.3s;
+}
+
+.sec1 .row .col{
+    width: 22rem;
+} 
+
+.sec2, .sec4, .sec8 {
+    background-color: #f6f9fe;
+}
+
+.sec2 img{
+    width: 100% !important;
+}
+
+.sec3{
+    padding: 80px;
+}
+
+.sec4{
+    padding: 80px;
+}
+
+.sec4 img{
+    width: 100%;
+}
+
+.sec5 {
+    padding: 80px;
+}
+
+.sec5 .col .card {
+    padding: 20px;
+}
+
+.sec9 {
+    background-color: #e9f1ff;
+}
